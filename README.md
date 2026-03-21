@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🚀 Hey, I'm Mahi
 
-<!--
-**mahi2008324/mahi2008324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Always Learning Always Building
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 💻 Student & Aspiring Software Developer
+- 📚 Learning DSA & Competitive Programming
+- 🤖 Exploring AI & Tech
+
+---
+
+### 🛠️ Tech Stack
+- Java ☕
+- SQL 🗄️
+- HTML, CSS 🌐
+
+---
+
+### 📊 GitHub Stats
+![Mahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+- Instagram: your_link
+- LinkedIn: your_link
