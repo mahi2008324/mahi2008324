@@ -13,21 +13,15 @@
 
 ### 🛠️ Tech Stack
 - Java ☕
+- Python
+- JavaScript
+- React js
 - SQL 🗄️
 - HTML, CSS 🌐
 
----
-
-### 📊 GitHub Stats
-![Mahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
-
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
 
 ---
 
 ### 🌐 Connect with Me
 - Instagram: your_link
-- LinkedIn: your_link
+- LinkedIn: (https://www.linkedin.com/in/kotha-maheedhar-05515736a/)
