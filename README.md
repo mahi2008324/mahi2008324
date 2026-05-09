@@ -23,5 +23,4 @@
 ---
 
 ### 🌐 Connect with Me
-- Instagram: your_link
 - LinkedIn: (https://www.linkedin.com/in/kotha-maheedhar-05515736a/)
